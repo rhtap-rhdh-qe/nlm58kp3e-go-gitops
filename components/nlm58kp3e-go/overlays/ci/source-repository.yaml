@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nlm58kp3e-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/nlm58kp3e-go
